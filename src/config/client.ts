@@ -21,8 +21,10 @@ export const client = {
     link: "https://wa.me/447831802539",
   },
   address: [
+    "Unit C, 4 Prospect Rd",
+    "Lowfield",
     "Sheffield",
-    "South Yorkshire",
+    "S2 3EN",
   ],
   region: "Sheffield and South Yorkshire",
   basedIn: "Sheffield",
